@@ -1,3 +1,6 @@
+# mcp-calculator
+
+```
 {
   "mcpServers": {
     "calculator-server": {
@@ -10,3 +13,4 @@
     }
   }
 }
+```
